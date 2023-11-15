@@ -1,13 +1,13 @@
 [[ORTools]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ac971017b1b4fc0cb3e9a4ac5e40f127ae23c275"
+git-tree-sha1 = "ba3d9b106f00c3261722b61531222731788e8f03"
 libc = "glibc"
 os = "linux"
 
     [[ORTools.download]]
-    sha256 = "7d4eaae663c521c841ebe4ff9c50907744e8b13079d52759d782fa79cd25ae38"
-    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.7.0+0/ORTools.v9.7.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "b47a49ebceeeae8bd7d0ccc3688d68a20d823fe3ab768fa7a8ecc937e8b5d2f8"
+    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.7.0+1/ORTools.v9.7.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[ORTools]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -17,4 +17,4 @@ os = "linux"
 
     [[ORTools.download]]
     sha256 = "db72a4c3b5a9953f48b68a85345471240da9a0a2f85c1146588aa71d7cdc036a"
-    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.7.0+0/ORTools.v9.7.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.7.0+1/ORTools.v9.7.0.x86_64-linux-gnu-cxx11.tar.gz"
