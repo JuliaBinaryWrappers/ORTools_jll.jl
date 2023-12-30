@@ -63,177 +63,177 @@ function __init__()
 
     JLLWrappers.@init_file_product(
         optional_boolean,
-        "include/operations_research/optional_boolean.proto",
+        "include/ortools/util/optional_boolean.proto",
     )
 
     JLLWrappers.@init_file_product(
         ortools_glop_parameters,
-        "include/operations_research/glop/parameters.proto",
+        "include/ortools/glop/parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         ortools_graph_flow_problem,
-        "include/operations_research/flow_problem.proto",
+        "include/ortools/graph/flow_problem.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_bop_parameters,
-        "include/operations_research/bop/bop_parameters.proto",
+        "include/ortools/bop/bop_parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_assignment,
-        "include/operations_research/assignment.proto",
+        "include/ortools/constraint_solver/assignment.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_demon_profiler,
-        "include/operations_research/demon_profiler.proto",
+        "include/ortools/constraint_solver/demon_profiler.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_routing_enums,
-        "include/operations_research/routing_enums.proto",
+        "include/ortools/constraint_solver/routing_enums.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_routing_parameters,
-        "include/operations_research/routing_parameters.proto",
+        "include/ortools/constraint_solver/routing_parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_search_limit,
-        "include/operations_research/search_limit.proto",
+        "include/ortools/constraint_solver/search_limit.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_search_stats,
-        "include/operations_research/search_stats.proto",
+        "include/ortools/constraint_solver/search_stats.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_constraint_solver_solver_parameters,
-        "include/operations_research/solver_parameters.proto",
+        "include/ortools/constraint_solver/solver_parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_gscip,
-        "include/operations_research/gscip.proto",
+        "include/ortools/gscip/gscip.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_linear_solver,
-        "include/operations_research/linear_solver.proto",
+        "include/ortools/linear_solver/linear_solver.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_callback,
-        "include/operations_research/math_opt/callback.proto",
+        "include/ortools/math_opt/callback.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_infeasible_subsystem,
-        "include/operations_research/math_opt/infeasible_subsystem.proto",
+        "include/ortools/math_opt/infeasible_subsystem.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_model,
-        "include/operations_research/math_opt/model.proto",
+        "include/ortools/math_opt/model.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_model_parameters,
-        "include/operations_research/math_opt/model_parameters.proto",
+        "include/ortools/math_opt/model_parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_model_update,
-        "include/operations_research/math_opt/model_update.proto",
+        "include/ortools/math_opt/model_update.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_parameters,
-        "include/operations_research/math_opt/parameters.proto",
+        "include/ortools/math_opt/parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_result,
-        "include/operations_research/math_opt/result.proto",
+        "include/ortools/math_opt/result.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_solution,
-        "include/operations_research/math_opt/solution.proto",
+        "include/ortools/math_opt/solution.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_solvers_glpk,
-        "include/operations_research/math_opt/solvers/glpk.proto",
+        "include/ortools/math_opt/solvers/glpk.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_solvers_gurobi,
-        "include/operations_research/math_opt/solvers/gurobi.proto",
+        "include/ortools/math_opt/solvers/gurobi.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_solvers_highs,
-        "include/operations_research/math_opt/solvers/highs.proto",
+        "include/ortools/math_opt/solvers/highs.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_math_opt_sparse_containers,
-        "include/operations_research/math_opt/sparse_containers.proto",
+        "include/ortools/math_opt/sparse_containers.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_packing_multiple_dimensions_bin_packing,
-        "include/operations_research/packing/multiple_dimensions_bin_packing.proto",
+        "include/ortools/packing/multiple_dimensions_bin_packing.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_packing_vector_bin_packing,
-        "include/operations_research/packing/vbp/vector_bin_packing.proto",
+        "include/ortools/packing/vbp/vector_bin_packing.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_pdlp_solve_log,
-        "include/operations_research/pdlp/solve_log.proto",
+        "include/ortools/pdlp/solve_log.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_pdlp_solvers,
-        "include/operations_research/pdlp/solvers.proto",
+        "include/ortools/pdlp/solvers.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_sat_boolean_problem,
-        "include/operations_research/sat/boolean_problem.proto",
+        "include/ortools/sat/boolean_problem.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_sat_cp_model,
-        "include/operations_research/sat/cp_model.proto",
+        "include/ortools/sat/cp_model.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_sat_parameters,
-        "include/operations_research/sat/sat_parameters.proto",
+        "include/ortools/sat/sat_parameters.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_scheduling_course_scheduling,
-        "include/operations_research/course_scheduling.proto",
+        "include/ortools/scheduling/course_scheduling.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_scheduling_jobshop_scheduling,
-        "include/operations_research/scheduling/jssp/jobshop_scheduling.proto",
+        "include/ortools/scheduling/jssp/jobshop_scheduling.proto",
     )
 
     JLLWrappers.@init_file_product(
         proto_scheduling_rcpsp,
-        "include/operations_research/scheduling/rcpsp/rcpsp.proto",
+        "include/ortools/scheduling/rcpsp/rcpsp.proto",
     )
 
     JLLWrappers.@init_executable_product(

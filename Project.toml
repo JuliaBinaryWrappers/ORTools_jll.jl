@@ -1,6 +1,6 @@
 name = "ORTools_jll"
 uuid = "717719f8-c30c-5086-8f3c-70cd6a1e3a46"
-version = "9.7.0+1"
+version = "9.7.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
