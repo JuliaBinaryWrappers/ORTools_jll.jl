@@ -1,28 +1,28 @@
 [[ORTools]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "733d0fbe5be7e3fe2ca8fe8c1fa51310d0b60e82"
+git-tree-sha1 = "51336d18c5aa129eacbd6ba9fb05a6aeea39f599"
 libc = "glibc"
 os = "linux"
 
     [[ORTools.download]]
-    sha256 = "c99d22d47f928c757a954cdd84c016133fec3eed0a24c3d29d8ec4aebc01198f"
-    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.11.1+0/ORTools.v9.11.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d21ad5b0ecdd6bc85ad8ecf9bd2a500da4c312a0936eb3fc1d5e8023ebdaf3e7"
+    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.12.0+0/ORTools.v9.12.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[ORTools]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c9535370b9a41309773c7a4b6044cf0f766e6fd"
+git-tree-sha1 = "c2099642f47307e66472f70cf9eb0b53c6c7d398"
 libc = "glibc"
 os = "linux"
 
     [[ORTools.download]]
-    sha256 = "d7dc439b9643c5c2e6b67168c708c27439813a447b344fdc40da9f0463d84a6e"
-    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.11.1+0/ORTools.v9.11.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "9812228b0c1da27199c0eb634a1c35c8e51f9666acd4147bfb06a24bfa964fc8"
+    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.12.0+0/ORTools.v9.12.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[ORTools]]
 arch = "x86_64"
-git-tree-sha1 = "b0f6dfc183b661d1c9a6ebcd9f9a7eb4f24299d0"
+git-tree-sha1 = "caccee5af2179eacdec7071e7736b2ee16d9425e"
 os = "freebsd"
 
     [[ORTools.download]]
-    sha256 = "dc4f7b98f250ac3876cf1696eb2bed23a3eae29286b449bf0b7d3e499080a07c"
-    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.11.1+0/ORTools.v9.11.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d03f6786eb990abce6370af14bea99fa4cf7b841b4b0f47b9e5a0528f5f5db21"
+    url = "https://github.com/JuliaBinaryWrappers/ORTools_jll.jl/releases/download/ORTools-v9.12.0+0/ORTools.v9.12.0.x86_64-unknown-freebsd.tar.gz"
